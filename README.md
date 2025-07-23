@@ -17,41 +17,28 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
 ## 👨‍💻 About Me
 
-I am a software architect at heart, specializing in the backend. I thrive on designing and implementing the core logic, infrastructure, and APIs that power modern applications. My experience ranges from maintaining robust legacy systems in **Delphi** to engineering cutting-edge, microservices-based architectures with **NestJS**.
+I am a software architect at heart, specializing in the backend. I thrive on designing and implementing the core logic, infrastructure, and APIs that power modern applications. My journey spans from robust enterprise systems to modern cloud-native architectures.
 
-- 🧠 My core focus is on API design, database optimization, and system scalability across various platforms like **PostgreSQL, Oracle, and SQL Server**.
-- 💡 I'm driven by the challenge of creating resilient systems that can handle high traffic and complex business requirements, using tools like **Python** and **Node.js**.
+**My Technical Journey:**
+- 🏗️ **Delphi Expertise:** Deep experience building high-performance desktop applications and enterprise systems. I've mastered Object Pascal, component development, and complex business logic implementation in Delphi environments.
+- 🌐 **Modern Backend Development:** Transitioned to modern web technologies, specializing in **Node.js** and **NestJS** for building scalable APIs and microservices.
+- 🐍 **Python Development:** Experienced in Python for automation, data processing, and backend services.
+- 🗄️ **Database Mastery:** Extensive experience with **PostgreSQL, Oracle, and SQL Server** - from query optimization to complex stored procedures and database architecture.
+
+**What Drives Me:**
+- 🧠 My core focus is on API design, database optimization, and system scalability across various platforms.
+- 💡 I'm driven by the challenge of creating resilient systems that can handle high traffic and complex business requirements.
 - 🤝 While my passion is backend, I have fullstack experience and enjoy collaborating with frontend teams to ensure seamless integration.
 
-<br>
+---
 
 ## 🚀 Current Backend Focus
-
-I am architecting the backend for an **all-in-one management platform for bars and restaurants**. This involves designing a scalable microservices architecture to handle all critical operations.
 
 - **Core APIs (NestJS):** Developing secure, high-performance RESTful APIs for order management, payment processing, and real-time notifications via WebSockets.
 - **Database Architecture (PostgreSQL):** Designing a normalized and efficient database schema to manage complex data relationships between users, orders, and inventory.
 - **System Scalability & Performance:** Implementing caching strategies and optimizing queries to ensure the infrastructure is ready for high-concurrency environments.
-
-    </td>
-    <td valign="top" width="50%">
-      
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GusttavoSilva&show_icons=true&theme=radical&icon_color=F7971E&text_color=FFF&bg_color=151515&hide_border=true&rank_icon=github" alt="Gustavo Silva's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoSilva&layout=compact&theme=radical&bg_color=151515&hide_border=true&langs_count=6" alt="Gustavo Silva's Top Languages"/>
-</div>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
